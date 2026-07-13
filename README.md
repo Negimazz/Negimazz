@@ -1,4 +1,4 @@
 # HI THERE!
 <p align="center">
-  <img src="./github-metrics.svg" alt="Contribution Calendar">
+  <img src=".profile-3d-contrib/github-metrics.svg" alt="Contribution Calendar">
 </p>
